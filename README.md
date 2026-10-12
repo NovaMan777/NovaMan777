@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="960" height="600" alt="Nova Man" src=".NOVA_MAN_full_original_animations.svg" />
+  <img width="960" height="600" alt="Nova Man" src="./NOVA_MAN_full_original_animations.svg" />
 </p>
 
 <!-- ========================================================= -->
